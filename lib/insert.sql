@@ -7,5 +7,5 @@ INSERT INTO bears VALUES (4, "Sergeant Brown", 15, "M", "green", "stoic", true)
 INSERT INTO bears VALUES (5, "Melissa", 10, "F", "brown", "savage", true)
 INSERT INTO bears VALUES (6, "Grinch", 10, "M", "brown", "savage", true)
 INSERT INTO bears VALUES (7, "Wendy", 10, "M", "brown", "savage", true)
-INSERT INTO bears VALUES (8, "Reese", 10, "M", "brown", "savage", true)
+INSERT INTO bears VALUES (8, null, 10, "M", "brown", "savage", true)
 
