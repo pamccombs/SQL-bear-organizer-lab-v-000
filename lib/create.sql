@@ -5,5 +5,5 @@ CREATE TABLE bears (
   color TEXT,
   temperment TEXT,
   alive BOOLEAN,
-  id 
+  id INTEGER PRIMARY KEY
 );
