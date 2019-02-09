@@ -1,5 +1,5 @@
 CREATE TABLE bears (
   name TEXT,
   age INTEGER
-  gender 
+  gender CHAR(1)
 );
